@@ -1,0 +1,124 @@
+// JavaScript Document
+$(document).ready(function(e) {
+document.addEventListener("deviceready",function(){
+	$('#menu').on('tap',function(){
+	navigator.vibrate(1000);
+});
+$('#uno').on('tap',function(){
+	navigator.vibrate(1000);
+});
+$('#dos').on('tap',function(){
+	navigator.vibrate(1000);
+});
+$('#tres').on('tap',function(){
+	navigator.vibrate(1000);
+});
+$('#cuatro').on('tap',function(){
+	navigator.vibrate(1000);
+});
+$('#btncinco').on('tap',function(){
+	navigator.vibrate(1000);
+});
+$('#').on('tap',function(){
+	navigator.vibrate(1000);
+});
+// segundo panel
+$('#menu1').on('tap',function(){
+	navigator.vibrate(1000);
+});
+$('#doss').on('tap',function(){
+	navigator.vibrate(1000);
+});
+$('#tress').on('tap',function(){
+	navigator.vibrate(1000);
+});
+$('#cuatroo').on('tap',function(){
+	navigator.vibrate(1000);
+});
+$('#ciinco').on('tap',function(){
+	navigator.vibrate(1000);
+});
+$('#iniicio').on('tap',function(){
+	navigator.vibrate(1000);
+});
+	
+	//panel tres
+	$('#menu2').on('tap',function(){
+	navigator.vibrate(1000);
+});
+$('#btdos').on('tap',function(){
+	navigator.vibrate(1000);
+});
+$('#btcuatro').on('tap',function(){
+	navigator.vibrate(1000);
+});
+$('#btuno').on('tap',function(){
+	navigator.vibrate(1000);
+});
+$('#btcinco').on('tap',function(){
+	navigator.vibrate(1000);
+});
+$('#bttres').on('tap',function(){
+	navigator.vibrate(1000);
+	
+});
+//panel 4
+$('#menu3').on('tap',function(){
+	navigator.vibrate(1000);
+});
+$('#uno1').on('tap',function(){
+	navigator.vibrate(1000);
+});
+$('#dos2').on('tap',function(){
+	navigator.vibrate(1000);
+});
+$('#cuatro4').on('tap',function(){
+	navigator.vibrate(1000);
+});
+$('#cinco5').on('tap',function(){
+	navigator.vibrate(1000);
+});
+$('#2dos').on('tap',function(){
+	navigator.vibrate(1000);
+});
+//panel 5
+$('#menu3').on('tap',function(){
+	navigator.vibrate(1000);
+});
+$('#buno').on('tap',function(){
+	navigator.vibrate(1000);
+});
+$('#bdos').on('tap',function(){
+	navigator.vibrate(1000);
+});
+$('#btres').on('tap',function(){
+	navigator.vibrate(1000);
+});
+$('#bcinco').on('tap',function(){
+	navigator.vibrate(1000);
+});
+$('#binicio').on('tap',function(){
+	navigator.vibrate(1000);
+});
+//panel 6
+$('#btnmenu').on('tap',function(){
+	navigator.vibrate(1000);
+});
+$('#btnuno').on('tap',function(){
+	navigator.vibrate(1000);
+});
+$('#btndos').on('tap',function(){
+	navigator.vibrate(1000);
+});
+$('#btntres').on('tap',function(){
+	navigator.vibrate(1000);
+});
+$('#btncuatro').on('tap',function(){
+	navigator.vibrate(1000);
+});
+$('#btninicio').on('tap',function(){
+	navigator.vibrate(1000);
+});
+}); 
+});
+
